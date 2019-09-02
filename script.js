@@ -22,8 +22,8 @@ var inverse = document.getElementById("inverse");//button Inverse x-1
 var tripple = document.getElementById("tripple");//button x3
 var twice = document.getElementById("twice");//button x2
 
-var result ="";//variable to hold the overall result from the 2 operands
-var operation = -1;//Initializing the arithmetic operations
+
+var operation = 0;//Initializing the arithmetic operations
 var data = 0;// Initializing a variable to hold the user first value/operand
 
 //Setting on click events to all the buttons and attaching a value to them 
