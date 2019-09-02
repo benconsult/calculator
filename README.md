@@ -1,2 +1,2 @@
 # calculator
-A calculator built using pure JavaScript--Chub
+A calculator built using pure JavaScript for Cchub
